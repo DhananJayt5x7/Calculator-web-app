@@ -28,7 +28,7 @@ This project is a web-based calculator application built using Java Servlets and
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-webapp.git
+   git clone https://github.com/DhananJayt5x7/calculator-webapp.git
 2. Navigate to the project directory:
     ```bash
     cd calculator-webapp
